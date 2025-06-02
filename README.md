@@ -36,5 +36,4 @@
 ```bash
 git clone https://github.com/samrat987-hx/Slammer-Ddos.git
 cd Slammer-Ddos
-pip install -r requirements.txt
-python slammer.py
+python3 Slammer-ddos.py
