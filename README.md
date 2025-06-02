@@ -27,7 +27,7 @@
 > Default login required before using the tool:
 
 - **Username:** `Slammer Ddos`
-- **Password : contact my tg @Whisperhex97
+- **Password**: contact my tg `@Whisperhex97`
 
 ---
 
