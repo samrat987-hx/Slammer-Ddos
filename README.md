@@ -27,11 +27,7 @@
 > Default login required before using the tool:
 
 - **Username:** `Slammer Ddos`
-- **Password (use any one):**
-  - `Xhohan chowdhury`
-  - `Jabed Chowdhury`
-  - `Samrat Sarker`
-  - `Killnet Destroyer`
+- **Password : contact my tg @Whisperhex97
 
 ---
 
